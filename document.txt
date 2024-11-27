@@ -1,0 +1,12 @@
+Features of the site
+Navigation Bar
+Animation
+Semantic tags
+transition and transform effect for interactivity
+Use of grid, flex and media Query
+font to maintain the space feel
+Interactive content for time travel
+Proper use of image and video with rounded corner to make it look more cool
+Footer section
+Use of Anchor tags to give Url of the social
+Highlighted about me and introduction section
